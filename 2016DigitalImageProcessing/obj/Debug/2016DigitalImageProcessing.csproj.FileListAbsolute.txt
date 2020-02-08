@@ -1,0 +1,57 @@
+c:\users\hyun\documents\visual studio 2015\Projects\2016DigitalImageProcessing\2016DigitalImageProcessing\bin\Debug\2016DigitalImageProcessing.exe.config
+c:\users\hyun\documents\visual studio 2015\Projects\2016DigitalImageProcessing\2016DigitalImageProcessing\bin\Debug\2016DigitalImageProcessing.exe
+c:\users\hyun\documents\visual studio 2015\Projects\2016DigitalImageProcessing\2016DigitalImageProcessing\bin\Debug\2016DigitalImageProcessing.pdb
+c:\users\hyun\documents\visual studio 2015\Projects\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.csprojResolveAssemblyReference.cache
+c:\users\hyun\documents\visual studio 2015\Projects\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.Properties.Resources.resources
+c:\users\hyun\documents\visual studio 2015\Projects\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.csproj.GenerateResource.Cache
+c:\users\hyun\documents\visual studio 2015\Projects\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.exe
+c:\users\hyun\documents\visual studio 2015\Projects\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.pdb
+C:\Users\HYUN\documents\visual studio 2015\Projects\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.LineInputBox.resources
+C:\Users\HYUN\documents\visual studio 2015\Projects\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.CircleInputBox.resources
+C:\Users\HYUN\documents\visual studio 2015\Projects\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.Form1.resources
+C:\Users\HYUN\documents\visual studio 2015\Projects\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.TriangleInput.resources
+C:\Users\HYUN\documents\visual studio 2015\Projects\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.PointInput.resources
+C:\Users\HYUN\documents\visual studio 2015\Projects\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.Scripts.IntegerInput.resources
+C:\Users\HYUN\Desktop\Work\2016DigitalImageProcessing\2016DigitalImageProcessing\bin\Debug\2016DigitalImageProcessing.exe.config
+C:\Users\HYUN\Desktop\Work\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.exe
+C:\Users\HYUN\Desktop\Work\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.pdb
+C:\Users\HYUN\Desktop\Work\2016DigitalImageProcessing\2016DigitalImageProcessing\bin\Debug\2016DigitalImageProcessing.exe
+C:\Users\HYUN\Desktop\Work\2016DigitalImageProcessing\2016DigitalImageProcessing\bin\Debug\2016DigitalImageProcessing.pdb
+C:\Users\HYUN\Desktop\Work\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\HYUN\Desktop\Work\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.CircleInputBox.resources
+C:\Users\HYUN\Desktop\Work\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.Form1.resources
+C:\Users\HYUN\Desktop\Work\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.Scripts.IntegerInput.resources
+C:\Users\HYUN\Desktop\Work\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.LineInputBox.resources
+C:\Users\HYUN\Desktop\Work\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.PointInput.resources
+C:\Users\HYUN\Desktop\Work\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.Properties.Resources.resources
+C:\Users\HYUN\Desktop\Work\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.TriangleInput.resources
+C:\Users\HYUN\Desktop\Work\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.csproj.GenerateResource.Cache
+C:\Users\kknd5\Desktop\Folders\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\bin\Debug\2016DigitalImageProcessing.exe.config
+C:\Users\kknd5\Desktop\Folders\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\bin\Debug\2016DigitalImageProcessing.exe
+C:\Users\kknd5\Desktop\Folders\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\bin\Debug\2016DigitalImageProcessing.pdb
+C:\Users\kknd5\Desktop\Folders\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\kknd5\Desktop\Folders\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.CircleInputBox.resources
+C:\Users\kknd5\Desktop\Folders\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.Form1.resources
+C:\Users\kknd5\Desktop\Folders\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.Scripts.IntegerInput.resources
+C:\Users\kknd5\Desktop\Folders\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.LineInputBox.resources
+C:\Users\kknd5\Desktop\Folders\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.PointInput.resources
+C:\Users\kknd5\Desktop\Folders\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.Properties.Resources.resources
+C:\Users\kknd5\Desktop\Folders\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.TriangleInput.resources
+C:\Users\kknd5\Desktop\Folders\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.csproj.GenerateResource.Cache
+C:\Users\kknd5\Desktop\Folders\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.exe
+C:\Users\kknd5\Desktop\Folders\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.pdb
+D:\2018_01_01backup\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\bin\Debug\2016DigitalImageProcessing.exe.config
+D:\2018_01_01backup\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\bin\Debug\2016DigitalImageProcessing.exe
+D:\2018_01_01backup\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\bin\Debug\2016DigitalImageProcessing.pdb
+D:\2018_01_01backup\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.csprojResolveAssemblyReference.cache
+D:\2018_01_01backup\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.AlertUtil.resources
+D:\2018_01_01backup\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.Form1.resources
+D:\2018_01_01backup\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.Scripts.IntegerInput.resources
+D:\2018_01_01backup\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.LineInputBox.resources
+D:\2018_01_01backup\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.PointInput.resources
+D:\2018_01_01backup\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.Properties.Resources.resources
+D:\2018_01_01backup\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\_2016DigitalImageProcessing.TriangleInput.resources
+D:\2018_01_01backup\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.csproj.GenerateResource.Cache
+D:\2018_01_01backup\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.csproj.CoreCompileInputs.cache
+D:\2018_01_01backup\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.exe
+D:\2018_01_01backup\WorkSpace\Work\Prev\2016DigitalImageProcessing\2016DigitalImageProcessing\obj\Debug\2016DigitalImageProcessing.pdb
